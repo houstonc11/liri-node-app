@@ -10,8 +10,8 @@ Here are the command options when running liri.js in Node:
     
 2) Find out information about any song using the Spotify API:
 
-    "node liri.js spotify-this-song <enter any song name>"
+    "node liri.js spotify-this-song {enter any song name}"
     
 3) Find out information about any movie including IMDB and Rotten Tomato scores:
 
-    "node liri.js movie-this <enter any movie title>"
+    "node liri.js movie-this {enter any movie title}"
